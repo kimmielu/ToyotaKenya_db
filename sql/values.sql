@@ -16,8 +16,10 @@ INSERT INTO employees (branch_id, first_name, last_name, role, email, hire_date)
 VALUES
 (3, 'Zacharia', 'Ogega', 'Salesperson', 'zach.ogega@toyotakenya.co.ke', '2025-01-14');
 (2, 'Fidel', 'Onunga', 'Manager', 'fidel.onunga@toyotakenya.co.ke', '2024-02-02');
-(3, 'Myles', 'Otieno', 'Manager', 'myles.otieno@toyotakenya.co.ke', '2023-01-01');
-(1, 'Mark', 'William', 'Salesperson', 'mark.william@toyotakenya.co.ke', '2023-06-09');
+(3, 'Myles', 'Otieno', 'System Administrator', 'myles.otieno@toyotakenya.co.ke', '2023-01-01');
+(1, 'Mark', 'William', 'Customer Care officer', 'mark.william@toyotakenya.co.ke', '2023-06-09');
+(1, 'Lucy', 'Wanjiku', 'Salesperson', 'lucy.wanjiku@toyotakenya.co.ke', '2024-03-15');
+(2, 'James', 'Karanja', 'Salesperson', 'james.karanja@toyotakenya.co.ke', '2024-05-20');
 -- ==========================================
 -- INSERT INTO car_models
 -- ==========================================
